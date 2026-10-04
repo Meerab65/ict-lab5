@@ -1,2 +1,3 @@
 Git is a local version control system that tracks changes to your project files and lets you safely work on branches before combining your code.
 Github hosts Git repositories online.
+Summary; Git tracks changes locally, and Github lets teams collaborate using branches and pull requests.
